@@ -68,6 +68,14 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📊 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
@@ -76,14 +84,6 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
   <img src="activity-graph.svg" alt="Activity Graph" width="100%">
 </picture>
 <!-- END ACTIVITY-GRAPH -->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</div>
 
 ---
 
