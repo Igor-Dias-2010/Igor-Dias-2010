@@ -1,16 +1,143 @@
-## Hi there 👋
+<!-- BANNER -->
+<div align="center">
 
-<!--
-**Igor-Dias-2010/Igor-Dias-2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5426a8,100:09090f&height=200&section=header&text=Igor%20Dias&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20reality.&descSize=16&descAlignY=60&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-end+Developer;Student+%26+Technology+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Igor Dias**, a programming student focused on front-end development and building digital experiences.
+
+I enjoy turning ideas into functional projects, exploring new technologies and understanding how things work behind the code.
+
+- 💻 Focused on Front-end Development.
+- 🚀 Building personal projects and experimenting with new ideas.
+- 📚 Constantly learning and improving my skills.
+- 🎯 Interested in clean code, UI/UX and responsive interfaces.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,linux,python,java,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Igor-Dias-2010/vexly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=vexly&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Igor-Dias-2010/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Igor-Dias-2010/bsbet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=bsbet&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Dias-2010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Dias-2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Igor-Dias-2010&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Igor-Dias-2010&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Igor-Dias-2010&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
+</picture>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/igor-dias-4a0791356/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/igor.da.silva.dias/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/Igor-Dias-2010">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Great things are built one line of code at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5426a8,100:09090f&height=100&section=footer" />
+
+</div>
