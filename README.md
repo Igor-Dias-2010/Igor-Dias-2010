@@ -68,7 +68,7 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 
 ---
 
-<h2 align="center">📊 Contribution Activity</h2>
+## 📊 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
 <picture>
