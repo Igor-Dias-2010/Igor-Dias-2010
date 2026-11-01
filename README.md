@@ -36,19 +36,15 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Igor-Dias-2010/vexly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=vexly&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Igor-Dias-2010/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Igor-Dias-2010/bsbet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Dias-2010&repo=bsbet&theme=tokyonight&hide_border=true" />
-</a>
-
+  <a href="https://github.com/Igor-Dias-2010/vexly">
+    <img src="./profile/vexly.svg" />
+  </a>
+  <a href="https://github.com/Igor-Dias-2010/portfolio">
+    <img src="./profile/portfolio.svg" />
+  </a>
+  <a href="https://github.com/Igor-Dias-2010/bsbet">
+    <img src="./profile/bsbet.svg" />
+  </a>
 </div>
 
 ---
@@ -56,11 +52,8 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Dias-2010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Dias-2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img height="180" src="./profile/stats.svg" />
+  <img height="180" src="./profile/top-langs.svg" />
 </div>
 
 ---
@@ -70,26 +63,6 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Igor-Dias-2010&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Igor-Dias-2010&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Igor-Dias-2010&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
