@@ -68,6 +68,13 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 
 ---
 
+<h2 align="center">📊 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igor-Dias-2010&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
