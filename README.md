@@ -1,10 +1,9 @@
-<!-- BANNER -->
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5426a8,100:09090f&height=200&section=header&text=Igor%20Dias&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20reality.&descSize=16&descAlignY=60&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-end+Developer;Student+%26+Technology+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Front-end+Developer;Student+%26+Technology+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -100,17 +99,13 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
+</picture>
 
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Igor-Dias-2010/Igor-Dias-2010/output/github-snake.svg">
-</picture>
 
 ---
 
@@ -135,8 +130,6 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 ---
 
 <div align="center">
-
-### "Great things are built one line of code at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5426a8,100:09090f&height=100&section=footer" />
 
