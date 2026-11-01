@@ -79,6 +79,14 @@ I enjoy turning ideas into functional projects, exploring new technologies and u
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
